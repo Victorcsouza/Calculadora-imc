@@ -2,7 +2,7 @@
 
 ![preview](./assest/preview.png)
 
-Desafio Calculodora IMC
+Desafio Calculadora IMC
 
 
 [Clique aqui para acessar](https://victorcsouza.github.io/Calculadora-imc)
