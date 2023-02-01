@@ -5,7 +5,7 @@
 Desafio Calculadora IMC
 
 
-[Clique aqui para acessar](https://victorcsouza.github.io/Calculadora-imc)
+[Clique aqui para acessar](https://victorcsouza.github.io/Calculadora-imc/)
 
 
 ## Tecnologias : 
